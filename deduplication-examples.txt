@@ -1,0 +1,1564 @@
+http://dig.isi.edu/weapons/data/page/1579A1B5A07B5E7888C1FAAB7280D7DA59E0F71A/1434289287000/processed
+
+More CA compliant rifles added 
+
+http://dig.isi.edu/weapons/data/page/482AED2F19387CBEF4C2C75DB124DA2F9BEC5437/1434238032000/processed
+
+
+
+Next
+
+http://dig.isi.edu/weapons/data/page/E90D066DD78D4D4FC309372C1FF30EF471FA6501/1434620927000/processed
+New ARMagLock CA Compliant Magazine Release
+
+http://dig.isi.edu/weapons/data/page/61D9093E9A2E848070D21171762F89FBC18E5939/1434306735000/processed
+
+
+
+
+
+Thread having multiple identifiers:
+
+{
+  "a": "Thread",
+  "hasTitlePart": [
+    {
+      "a": "WebPageElement",
+      "text": "(⌐■_■) FRIMAZON REFUNDS ! 2X, 3X, 4X, 5X, 6X DiP ?!?!??! (⌐■_■)"
+    },
+    {
+      "a": "WebPageElement",
+      "text": "Kindergarten"
+    }
+  ],
+  "author_name_histogram": [
+    {
+      "count": 5,
+      "a": "AggregatedFeature",
+      "name": "author_name_histogram",
+      "value": "Flight Club ✈✈"
+    },
+    {
+      "count": 5,
+      "a": "AggregatedFeature",
+      "name": "author_name_histogram",
+      "value": "rEvolution"
+    },
+    {
+      "count": 5,
+      "a": "AggregatedFeature",
+      "name": "author_name_histogram",
+      "value": "United States of Savages"
+    },
+    {
+      "count": 5,
+      "a": "AggregatedFeature",
+      "name": "author_name_histogram",
+      "value": "Bay area"
+    },
+    {
+      "count": 1,
+      "a": "AggregatedFeature",
+      "name": "author_name_histogram",
+      "value": "Sailing"
+    },
+    {
+      "count": 1,
+      "a": "AggregatedFeature",
+      "name": "author_name_histogram",
+      "value": "Under Your Bed."
+    }
+  ],
+  "dateCreated_aggregated": {
+    "a": "AggregatedFeature",
+    "name": "dateCreated_aggregated",
+    "value": "2014-11-15T17:07:01 TO 2014-11-15T22:57:55"
+  },
+  "hasPost": [
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "danger777 wrote:Im still waiting on my replacement. Idk how icard knew what im trying to get replaced.(he got the wrong model though) FRIM has messaged me i have messaged back. That is all. Im not anyones alt"
+      },
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: (⌐■_■) FRIMAZON REFUNDS ! 2X, 3X, 4X, 5X, 6X DiP ?!?!??! (⌐■_■)"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290375",
+      "hasSignaturePart": {
+        "a": "WebPageElement",
+        "text": "Want to donate? Here, now you can :16XJyZNPsHLPZAARMMZR2SSDWeowNTY8HDicq = 665257404 in case evo gets compromised everThe #1 Amazon Refund Service -- http://k5zq47j6wd3wdvjq.onion/listing/43883"
+      },
+      "identifier": {
+        "a": "Identifier",
+        "name": "290375",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "FRIM wrote:You do not even have $250.You spent it all on dildos and anal cream"
+      },
+      "identifier": {
+        "a": "Identifier",
+        "name": "290058",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290058",
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: (⌐■_■) FRIMAZON REFUNDS ! 2X, 3X, 4X, 5X, 6X DiP ?!?!??! (⌐■_■)"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "who cares who anyone is *hits blunt*"
+      },
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: (⌐■_■) FRIMAZON REFUNDS ! 2X, 3X, 4X, 5X, 6X DiP ?!?!??! (⌐■_■)"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290374",
+      "hasSignaturePart": {
+        "a": "WebPageElement",
+        "text": "hella rad super fabshake it off"
+      },
+      "identifier": {
+        "a": "Identifier",
+        "name": "290374",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "FRIM wrote:You do not even have $250.You spent it all on dildos and anal cream"
+      },
+      "identifier": {
+        "a": "Identifier",
+        "name": "290057",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290057",
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: (⌐■_■) FRIMAZON REFUNDS ! 2X, 3X, 4X, 5X, 6X DiP ?!?!??! (⌐■_■)"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "And I cant reason with a fake ass person."
+      },
+      "identifier": {
+        "a": "Identifier",
+        "name": "290069",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290069",
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: (⌐■_■) FRIMAZON REFUNDS ! 2X, 3X, 4X, 5X, 6X DiP ?!?!??! (⌐■_■)"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": ". Last edited by Searchme101 (Today 18:28:08)"
+      },
+      "identifier": {
+        "a": "Identifier",
+        "name": "290108",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290108",
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: (⌐■_■) FRIMAZON REFUNDS ! 2X, 3X, 4X, 5X, 6X DiP ?!?!??! (⌐■_■)"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "EludingHell wrote:FRIM why do you even argue with iPoop? put your money glasses back on"
+      },
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: (⌐■_■) FRIMAZON REFUNDS ! 2X, 3X, 4X, 5X, 6X DiP ?!?!??! (⌐■_■)"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290065",
+      "hasSignaturePart": {
+        "a": "WebPageElement",
+        "text": "Want to donate? Here, now you can :16XJyZNPsHLPZAARMMZR2SSDWeowNTY8HDicq = 665257404 in case evo gets compromised everThe #1 Amazon Refund Service -- http://k5zq47j6wd3wdvjq.onion/listing/43883"
+      },
+      "identifier": {
+        "a": "Identifier",
+        "name": "290065",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "Searchme101 wrote:I can confirm FRIM uses the dirty shit method which is lame as fuck. Clearly his ego has been boosted by his own personas"
+      },
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: (⌐■_■) FRIMAZON REFUNDS ! 2X, 3X, 4X, 5X, 6X DiP ?!?!??! (⌐■_■)"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290170",
+      "hasSignaturePart": {
+        "a": "WebPageElement",
+        "text": "hella rad super fabshake it off"
+      },
+      "identifier": {
+        "a": "Identifier",
+        "name": "290170",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "iCards wrote:Hold up FRIM hold up. First I didnt have any customers because I was buying from myself, now you apparently have  PMs  from some of my customers. LOL WAY TO CONTRADICT YOURSELF AND PROVE YOUR A JELOUS LIER BUDDY"
+      },
+      "identifier": {
+        "a": "Identifier",
+        "name": "290064",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290064",
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: (⌐■_■) FRIMAZON REFUNDS ! 2X, 3X, 4X, 5X, 6X DiP ?!?!??! (⌐■_■)"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "haha searchme101 just messaged me in all caps#prayersedit: post 666 of this thread Last edited by EludingHell (Today 18:36:02)"
+      },
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: (⌐■_■) FRIMAZON REFUNDS ! 2X, 3X, 4X, 5X, 6X DiP ?!?!??! (⌐■_■)"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290192",
+      "hasSignaturePart": {
+        "a": "WebPageElement",
+        "text": "hella rad super fabshake it off"
+      },
+      "identifier": {
+        "a": "Identifier",
+        "name": "290192",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "ITT: other vendors get mad I have all their customers and post on alts to try and regain them.And +1 Eluding."
+      },
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: (⌐■_■) FRIMAZON REFUNDS ! 2X, 3X, 4X, 5X, 6X DiP ?!?!??! (⌐■_■)"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290177",
+      "hasSignaturePart": {
+        "a": "WebPageElement",
+        "text": "Want to donate? Here, now you can :16XJyZNPsHLPZAARMMZR2SSDWeowNTY8HDicq = 665257404 in case evo gets compromised everThe #1 Amazon Refund Service -- http://k5zq47j6wd3wdvjq.onion/listing/43883"
+      },
+      "identifier": {
+        "a": "Identifier",
+        "name": "290177",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "Hold up FRIM hold up. First I didnt have any customers because I was buying from myself, now you apparently have  PMs  from some of my customers. LOL WAY TO CONTRADICT YOURSELF AND PROVE YOUR A JELOUS LIER BUDDY"
+      },
+      "identifier": {
+        "a": "Identifier",
+        "name": "290050",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290050",
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: (⌐■_■) FRIMAZON REFUNDS ! 2X, 3X, 4X, 5X, 6X DiP ?!?!??! (⌐■_■)"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "FRIM why do you even argue with iPoop? put your money glasses back on Last edited by EludingHell (Today 17:11:36)"
+      },
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: (⌐■_■) FRIMAZON REFUNDS ! 2X, 3X, 4X, 5X, 6X DiP ?!?!??! (⌐■_■)"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290051",
+      "hasSignaturePart": {
+        "a": "WebPageElement",
+        "text": "hella rad super fabshake it off"
+      },
+      "identifier": {
+        "a": "Identifier",
+        "name": "290051",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "Cookiez wrote:Ok. It seems like FRIM only works with peoples attention.Im not an alt account from nobody in this forum and im getting bored with my situation.Order placed 7th November (i fucked up my situation and dont dispute before Auto Finalize, because of all good feedbacks that FRIM has.)Today is 15 November and FRIM dont even started to do nothing with my order.He have the money in the pocket and dont even started talking with Amazon. Everytime says soon...I know that is a low order but i need speed on this to make profit and can go for higher value items.FRIM i was really calm but with all this spamm in your thread im forced to show this to everybody and see if you do something with my order.And i say again that i dont want to wait 1month for a triple dip.Lets see if you work better like this. And sorry again but i was forced to put this in public."
+      },
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: (⌐■_■) FRIMAZON REFUNDS ! 2X, 3X, 4X, 5X, 6X DiP ?!?!??! (⌐■_■)"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290060",
+      "hasSignaturePart": {
+        "a": "WebPageElement",
+        "text": "Want to donate? Here, now you can :16XJyZNPsHLPZAARMMZR2SSDWeowNTY8HDicq = 665257404 in case evo gets compromised everThe #1 Amazon Refund Service -- http://k5zq47j6wd3wdvjq.onion/listing/43883"
+      },
+      "identifier": {
+        "a": "Identifier",
+        "name": "290060",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "Im still waiting on my replacement. Idk how icard knew what im trying to get replaced.(he got the wrong model though) FRIM has messaged me i have messaged back. That is all. Im not anyones alt"
+      },
+      "identifier": {
+        "a": "Identifier",
+        "name": "290344",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290344",
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: (⌐■_■) FRIMAZON REFUNDS ! 2X, 3X, 4X, 5X, 6X DiP ?!?!??! (⌐■_■)"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "girohoe wrote:What is the maximum spend for a DD on amazon FRIM? Not a new account, ready to order!Thanks"
+      },
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: (⌐■_■) FRIMAZON REFUNDS ! 2X, 3X, 4X, 5X, 6X DiP ?!?!??! (⌐■_■)"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290195",
+      "hasSignaturePart": {
+        "a": "WebPageElement",
+        "text": "Want to donate? Here, now you can :16XJyZNPsHLPZAARMMZR2SSDWeowNTY8HDicq = 665257404 in case evo gets compromised everThe #1 Amazon Refund Service -- http://k5zq47j6wd3wdvjq.onion/listing/43883"
+      },
+      "identifier": {
+        "a": "Identifier",
+        "name": "290195",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "Cookiez wrote:What do you mean with that? You dont believe that i am a normal costumer?"
+      },
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: (⌐■_■) FRIMAZON REFUNDS ! 2X, 3X, 4X, 5X, 6X DiP ?!?!??! (⌐■_■)"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290154",
+      "hasSignaturePart": {
+        "a": "WebPageElement",
+        "text": "Want to donate? Here, now you can :16XJyZNPsHLPZAARMMZR2SSDWeowNTY8HDicq = 665257404 in case evo gets compromised everThe #1 Amazon Refund Service -- http://k5zq47j6wd3wdvjq.onion/listing/43883"
+      },
+      "identifier": {
+        "a": "Identifier",
+        "name": "290154",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "What is the maximum spend for a DD on amazon FRIM? Not a new account, ready to order!Thanks"
+      },
+      "identifier": {
+        "a": "Identifier",
+        "name": "290190",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290190",
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: (⌐■_■) FRIMAZON REFUNDS ! 2X, 3X, 4X, 5X, 6X DiP ?!?!??! (⌐■_■)"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "This thread is absolutely fantastic."
+      },
+      "identifier": {
+        "a": "Identifier",
+        "name": "290144",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290144",
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: (⌐■_■) FRIMAZON REFUNDS ! 2X, 3X, 4X, 5X, 6X DiP ?!?!??! (⌐■_■)"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "What is the maximum spend for a DD on amazon FRIM? Not a new account, ready to order!Thanks"
+      },
+      "identifier": {
+        "a": "Identifier",
+        "name": "290143",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290143",
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: (⌐■_■) FRIMAZON REFUNDS ! 2X, 3X, 4X, 5X, 6X DiP ?!?!??! (⌐■_■)"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "Its so hilarious, FRIM thinks i am iCard and said I need to wait 10 days before i can get my refund. I am so happy i disputed. All buyers need to be aware of this. Using your service has been my worst experience on Evo so far. Oh and by the way, thanks to you my customer got a visit from delivery driver and numerous phone calls from carrier. You have royally fucked this up. You sir truly deserve a Troll tag."
+      },
+      "identifier": {
+        "a": "Identifier",
+        "name": "290338",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290338",
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: (⌐■_■) FRIMAZON REFUNDS ! 2X, 3X, 4X, 5X, 6X DiP ?!?!??! (⌐■_■)"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "FRIM wrote:The PS4 is overall better specwise and it is the most popular.Comparing the companies side by side, Microsoft is a bad company and Sony is a very good company.PS4 all the way."
+      },
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: Kindergarten"
+      },
+      "author": {
+        "a": "Person",
+        "memberOf": {
+          "a": "OrganizationRole",
+          "startDate": "2014-05-14T00:00:00",
+          "memberOf": {
+            "a": "Organization",
+            "name": "evolutionforum.com"
+          }
+        },
+        "identifier": {
+          "a": "Identifier",
+          "name": "5674",
+          "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/person/evolutionforums"
+        },
+        "name": [
+          "Bay area",
+          "Flight Club ✈✈",
+          "rEvolution",
+          "United States of Savages"
+        ],
+        "uri": "http://dig.isi.edu/weapons/data/person/evolutionforums/5674"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290047",
+      "dateCreated": "2014-11-15T17:07:01",
+      "hasSignaturePart": [
+        {
+          "a": "WebPageElement",
+          "text": "dude that camping trip was IN TENTSA LIST OF VENDORS VOUCHED BY YOURS TRULY with 97% sales or more3 What does FE even mean??http://i25c62nvu4cgeqyz.onion/viewtopic.php?pid=294310#p294310"
+        },
+        {
+          "a": "WebPageElement",
+          "text": "hella rad super fabI broke the world record for being awesome"
+        },
+        {
+          "a": "WebPageElement",
+          "text": "hella rad super fabsmoothe king is delish"
+        },
+        {
+          "a": "WebPageElement",
+          "text": "Theres an animal insideDrug Vendors Vouch List // 90% of the vendors dont require FE // MY POST UPDATED AND REVISED TWICE A WEEK:http://i25c62nvu4cgeqyz.onion/viewtopic.php?pid=294310#p294310"
+        },
+        {
+          "a": "WebPageElement",
+          "text": "Will be busy most of this month, I will still update my vouch thread frequently and none of the vendors require FEdont message me about carding/fraud, im strictly narcotics and basement OPsechttp://i25c62nvu4cgeqyz.onion/viewtopic.php?pid=294310#p294310"
+        }
+      ],
+      "identifier": {
+        "a": "Identifier",
+        "name": "290047",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "Ok. It seems like FRIM only works with peoples attention.Im not an alt account from nobody in this forum and im getting bored with my situation.Order placed 7th November (i fucked up my situation and dont dispute before Auto Finalize, because of all good feedbacks that FRIM has.)Today is 15 November and FRIM dont even started to do nothing with my order.He have the money in the pocket and dont even started talking with Amazon. Everytime says soon...I know that is a low order but i need speed on this to make profit and can go for higher value items.FRIM i was really calm but with all this spamm in your thread im forced to show this to everybody and see if you do something with my order.And i say again that i dont want to wait 1month for a triple dip.Lets see if you work better like this. And sorry again but i was forced to put this in public."
+      },
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: Kindergarten"
+      },
+      "author": {
+        "a": "Person",
+        "memberOf": {
+          "a": "OrganizationRole",
+          "startDate": "2014-10-17T00:00:00",
+          "memberOf": {
+            "a": "Organization",
+            "name": "evolutionforum.com"
+          }
+        },
+        "identifier": {
+          "a": "Identifier",
+          "name": "16443",
+          "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/person/evolutionforums"
+        },
+        "uri": "http://dig.isi.edu/weapons/data/person/evolutionforums/16443"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290048",
+      "dateCreated": "2014-11-15T17:07:30",
+      "identifier": {
+        "a": "Identifier",
+        "name": "290048",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "Hold up FRIM hold up. First I didnt have any customers because I was buying from myself, now you apparently have  PMs  from some of my customers. LOL WAY TO CONTRADICT YOURSELF AND PROVE YOUR A JELOUS LIER BUDDY"
+      },
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: Kindergarten"
+      },
+      "author": {
+        "a": "Person",
+        "memberOf": {
+          "a": "OrganizationRole",
+          "startDate": "2014-11-13T00:00:00",
+          "memberOf": {
+            "a": "Organization",
+            "name": "evolutionforum.com"
+          }
+        },
+        "identifier": {
+          "a": "Identifier",
+          "name": "19380",
+          "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/person/evolutionforums"
+        },
+        "uri": "http://dig.isi.edu/weapons/data/person/evolutionforums/19380"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290050",
+      "dateCreated": "2014-11-15T17:08:55",
+      "identifier": {
+        "a": "Identifier",
+        "name": "290050",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "FRIM why do you even argue with iPoop? put your money glasses back on Last edited by EludingHell (2014-11-15 17:11:36)"
+      },
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: Kindergarten"
+      },
+      "author": {
+        "a": "Person",
+        "memberOf": {
+          "a": "OrganizationRole",
+          "startDate": "2014-05-14T00:00:00",
+          "memberOf": {
+            "a": "Organization",
+            "name": "evolutionforum.com"
+          }
+        },
+        "identifier": {
+          "a": "Identifier",
+          "name": "5674",
+          "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/person/evolutionforums"
+        },
+        "name": [
+          "Bay area",
+          "Flight Club ✈✈",
+          "rEvolution",
+          "United States of Savages"
+        ],
+        "uri": "http://dig.isi.edu/weapons/data/person/evolutionforums/5674"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290051",
+      "dateCreated": "2014-11-15T17:08:56",
+      "hasSignaturePart": [
+        {
+          "a": "WebPageElement",
+          "text": "dude that camping trip was IN TENTSA LIST OF VENDORS VOUCHED BY YOURS TRULY with 97% sales or more3 What does FE even mean??http://i25c62nvu4cgeqyz.onion/viewtopic.php?pid=294310#p294310"
+        },
+        {
+          "a": "WebPageElement",
+          "text": "hella rad super fabI broke the world record for being awesome"
+        },
+        {
+          "a": "WebPageElement",
+          "text": "hella rad super fabsmoothe king is delish"
+        },
+        {
+          "a": "WebPageElement",
+          "text": "Theres an animal insideDrug Vendors Vouch List // 90% of the vendors dont require FE // MY POST UPDATED AND REVISED TWICE A WEEK:http://i25c62nvu4cgeqyz.onion/viewtopic.php?pid=294310#p294310"
+        },
+        {
+          "a": "WebPageElement",
+          "text": "Will be busy most of this month, I will still update my vouch thread frequently and none of the vendors require FEdont message me about carding/fraud, im strictly narcotics and basement OPsechttp://i25c62nvu4cgeqyz.onion/viewtopic.php?pid=294310#p294310"
+        }
+      ],
+      "identifier": {
+        "a": "Identifier",
+        "name": "290051",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": [
+        {
+          "a": "WebPageElement",
+          "text": "-- Last edited by seizethemoment (2014-11-29 11:59:41)"
+        },
+        {
+          "a": "WebPageElement",
+          "text": "FRIM wrote:You do not even have $250.You spent it all on dildos and anal cream"
+        }
+      ],
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: Kindergarten"
+      },
+      "author": {
+        "a": "Person",
+        "memberOf": {
+          "a": "OrganizationRole",
+          "startDate": "2014-11-10T00:00:00",
+          "memberOf": {
+            "a": "Organization",
+            "name": "evolutionforum.com"
+          }
+        },
+        "identifier": {
+          "a": "Identifier",
+          "name": "18833",
+          "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/person/evolutionforums"
+        },
+        "uri": "http://dig.isi.edu/weapons/data/person/evolutionforums/18833"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290057",
+      "dateCreated": "2014-11-15T17:11:22",
+      "identifier": {
+        "a": "Identifier",
+        "name": "290057",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "FRIM wrote:You do not even have $250.You spent it all on dildos and anal cream"
+      },
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: Kindergarten"
+      },
+      "author": {
+        "a": "Person",
+        "memberOf": {
+          "a": "OrganizationRole",
+          "startDate": "2014-11-13T00:00:00",
+          "memberOf": {
+            "a": "Organization",
+            "name": "evolutionforum.com"
+          }
+        },
+        "identifier": {
+          "a": "Identifier",
+          "name": "19380",
+          "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/person/evolutionforums"
+        },
+        "uri": "http://dig.isi.edu/weapons/data/person/evolutionforums/19380"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290058",
+      "dateCreated": "2014-11-15T17:11:25",
+      "identifier": {
+        "a": "Identifier",
+        "name": "290058",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "Cookiez wrote:Ok. It seems like FRIM only works with peoples attention.Im not an alt account from nobody in this forum and im getting bored with my situation.Order placed 7th November (i fucked up my situation and dont dispute before Auto Finalize, because of all good feedbacks that FRIM has.)Today is 15 November and FRIM dont even started to do nothing with my order.He have the money in the pocket and dont even started talking with Amazon. Everytime says soon...I know that is a low order but i need speed on this to make profit and can go for higher value items.FRIM i was really calm but with all this spamm in your thread im forced to show this to everybody and see if you do something with my order.And i say again that i dont want to wait 1month for a triple dip.Lets see if you work better like this. And sorry again but i was forced to put this in public."
+      },
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: Kindergarten"
+      },
+      "author": {
+        "a": "Person",
+        "memberOf": {
+          "a": "OrganizationRole",
+          "startDate": "2014-01-15T00:00:00",
+          "memberOf": {
+            "a": "Organization",
+            "name": "evolutionforum.com"
+          }
+        },
+        "identifier": {
+          "a": "Identifier",
+          "name": "393",
+          "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/person/evolutionforums"
+        },
+        "uri": "http://dig.isi.edu/weapons/data/person/evolutionforums/393"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290060",
+      "dateCreated": "2014-11-15T17:11:51",
+      "hasSignaturePart": {
+        "a": "WebPageElement",
+        "text": "Want to donate? Here, now you can :16XJyZNPsHLPZAARMMZR2SSDWeowNTY8HDicq = 665257404 in case evo gets compromised everThe #1 Amazon Refund Service -- http://k5zq47j6wd3wdvjq.onion/listing/43883"
+      },
+      "identifier": {
+        "a": "Identifier",
+        "name": "290060",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "iCards wrote:Hold up FRIM hold up. First I didnt have any customers because I was buying from myself, now you apparently have  PMs  from some of my customers. LOL WAY TO CONTRADICT YOURSELF AND PROVE YOUR A JELOUS LIER BUDDY"
+      },
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: Kindergarten"
+      },
+      "author": {
+        "a": "Person",
+        "memberOf": {
+          "a": "OrganizationRole",
+          "startDate": "2014-11-13T00:00:00",
+          "memberOf": {
+            "a": "Organization",
+            "name": "evolutionforum.com"
+          }
+        },
+        "identifier": {
+          "a": "Identifier",
+          "name": "19380",
+          "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/person/evolutionforums"
+        },
+        "uri": "http://dig.isi.edu/weapons/data/person/evolutionforums/19380"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290064",
+      "dateCreated": "2014-11-15T17:13:44",
+      "identifier": {
+        "a": "Identifier",
+        "name": "290064",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "EludingHell wrote:FRIM why do you even argue with iPoop? put your money glasses back on"
+      },
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: Kindergarten"
+      },
+      "author": {
+        "a": "Person",
+        "memberOf": {
+          "a": "OrganizationRole",
+          "startDate": "2014-01-15T00:00:00",
+          "memberOf": {
+            "a": "Organization",
+            "name": "evolutionforum.com"
+          }
+        },
+        "identifier": {
+          "a": "Identifier",
+          "name": "393",
+          "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/person/evolutionforums"
+        },
+        "uri": "http://dig.isi.edu/weapons/data/person/evolutionforums/393"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290065",
+      "dateCreated": "2014-11-15T17:13:48",
+      "hasSignaturePart": {
+        "a": "WebPageElement",
+        "text": "Want to donate? Here, now you can :16XJyZNPsHLPZAARMMZR2SSDWeowNTY8HDicq = 665257404 in case evo gets compromised everThe #1 Amazon Refund Service -- http://k5zq47j6wd3wdvjq.onion/listing/43883"
+      },
+      "identifier": {
+        "a": "Identifier",
+        "name": "290065",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "And I cant reason with a fake ass person."
+      },
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: Kindergarten"
+      },
+      "author": {
+        "a": "Person",
+        "memberOf": {
+          "a": "OrganizationRole",
+          "startDate": "2014-11-13T00:00:00",
+          "memberOf": {
+            "a": "Organization",
+            "name": "evolutionforum.com"
+          }
+        },
+        "identifier": {
+          "a": "Identifier",
+          "name": "19380",
+          "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/person/evolutionforums"
+        },
+        "uri": "http://dig.isi.edu/weapons/data/person/evolutionforums/19380"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290069",
+      "dateCreated": "2014-11-15T17:15:48",
+      "identifier": {
+        "a": "Identifier",
+        "name": "290069",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "FRIM wrote:Cookiez wrote:Ok. It seems like FRIM only works with peoples attention.Im not an alt account from nobody in this forum and im getting bored with my situation.Order placed 7th November (i fucked up my situation and dont dispute before Auto Finalize, because of all good feedbacks that FRIM has.)Today is 15 November and FRIM dont even started to do nothing with my order.He have the money in the pocket and dont even started talking with Amazon. Everytime says soon...I know that is a low order but i need speed on this to make profit and can go for higher value items.FRIM i was really calm but with all this spamm in your thread im forced to show this to everybody and see if you do something with my order.And i say again that i dont want to wait 1month for a triple dip.Lets see if you work better like this. And sorry again but i was forced to put this in public."
+      },
+      "hasTitlePart": [
+        {
+          "a": "WebPageElement",
+          "text": "Re: (⌐■_■) FRIMAZON REFUNDS ! 2X, 3X, 4X, 5X, 6X DiP ?!?!??! (⌐■_■)"
+        },
+        {
+          "a": "WebPageElement",
+          "text": "Re: Kindergarten"
+        }
+      ],
+      "author": {
+        "a": "Person",
+        "memberOf": {
+          "a": "OrganizationRole",
+          "startDate": "2014-10-17T00:00:00",
+          "memberOf": {
+            "a": "Organization",
+            "name": "evolutionforum.com"
+          }
+        },
+        "identifier": {
+          "a": "Identifier",
+          "name": "16443",
+          "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/person/evolutionforums"
+        },
+        "uri": "http://dig.isi.edu/weapons/data/person/evolutionforums/16443"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290102",
+      "dateCreated": "2014-11-15T17:43:48",
+      "identifier": {
+        "a": "Identifier",
+        "name": "290102",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": ". Last edited by Searchme101 (2014-11-15 18:28:08)"
+      },
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: Kindergarten"
+      },
+      "author": {
+        "a": "Person",
+        "memberOf": {
+          "a": "OrganizationRole",
+          "startDate": "2014-08-03T00:00:00",
+          "memberOf": {
+            "a": "Organization",
+            "name": "evolutionforum.com"
+          }
+        },
+        "identifier": {
+          "a": "Identifier",
+          "name": "10264",
+          "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/person/evolutionforums"
+        },
+        "uri": "http://dig.isi.edu/weapons/data/person/evolutionforums/10264"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290108",
+      "dateCreated": "2014-11-15T17:46:55",
+      "identifier": {
+        "a": "Identifier",
+        "name": "290108",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "What is the maximum spend for a DD on amazon FRIM? Not a new account, ready to order!Thanks"
+      },
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: Kindergarten"
+      },
+      "author": {
+        "a": "Person",
+        "memberOf": {
+          "a": "OrganizationRole",
+          "startDate": "2014-11-10T00:00:00",
+          "memberOf": {
+            "a": "Organization",
+            "name": "evolutionforum.com"
+          }
+        },
+        "identifier": {
+          "a": "Identifier",
+          "name": "18823",
+          "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/person/evolutionforums"
+        },
+        "uri": "http://dig.isi.edu/weapons/data/person/evolutionforums/18823"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290143",
+      "dateCreated": "2014-11-15T18:07:54",
+      "identifier": {
+        "a": "Identifier",
+        "name": "290143",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "This thread is absolutely fantastic."
+      },
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: Kindergarten"
+      },
+      "author": {
+        "a": "Person",
+        "memberOf": {
+          "a": "OrganizationRole",
+          "startDate": "2014-10-11T00:00:00",
+          "memberOf": {
+            "a": "Organization",
+            "name": "evolutionforum.com"
+          }
+        },
+        "identifier": {
+          "a": "Identifier",
+          "name": "15968",
+          "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/person/evolutionforums"
+        },
+        "uri": "http://dig.isi.edu/weapons/data/person/evolutionforums/15968"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290144",
+      "dateCreated": "2014-11-15T18:08:48",
+      "identifier": {
+        "a": "Identifier",
+        "name": "290144",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "Cookiez wrote:What do you mean with that? You dont believe that i am a normal costumer?"
+      },
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: Kindergarten"
+      },
+      "author": {
+        "a": "Person",
+        "memberOf": {
+          "a": "OrganizationRole",
+          "startDate": "2014-01-15T00:00:00",
+          "memberOf": {
+            "a": "Organization",
+            "name": "evolutionforum.com"
+          }
+        },
+        "identifier": {
+          "a": "Identifier",
+          "name": "393",
+          "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/person/evolutionforums"
+        },
+        "uri": "http://dig.isi.edu/weapons/data/person/evolutionforums/393"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290154",
+      "dateCreated": "2014-11-15T18:12:48",
+      "hasSignaturePart": {
+        "a": "WebPageElement",
+        "text": "Want to donate? Here, now you can :16XJyZNPsHLPZAARMMZR2SSDWeowNTY8HDicq = 665257404 in case evo gets compromised everThe #1 Amazon Refund Service -- http://k5zq47j6wd3wdvjq.onion/listing/43883"
+      },
+      "identifier": {
+        "a": "Identifier",
+        "name": "290154",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "Searchme101 wrote:I can confirm FRIM uses the dirty shit method which is lame as fuck. Clearly his ego has been boosted by his own personas"
+      },
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: Kindergarten"
+      },
+      "author": {
+        "a": "Person",
+        "memberOf": {
+          "a": "OrganizationRole",
+          "startDate": "2014-05-14T00:00:00",
+          "memberOf": {
+            "a": "Organization",
+            "name": "evolutionforum.com"
+          }
+        },
+        "identifier": {
+          "a": "Identifier",
+          "name": "5674",
+          "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/person/evolutionforums"
+        },
+        "name": [
+          "Bay area",
+          "Flight Club ✈✈",
+          "rEvolution",
+          "United States of Savages"
+        ],
+        "uri": "http://dig.isi.edu/weapons/data/person/evolutionforums/5674"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290170",
+      "dateCreated": "2014-11-15T18:19:35",
+      "hasSignaturePart": [
+        {
+          "a": "WebPageElement",
+          "text": "dude that camping trip was IN TENTSA LIST OF VENDORS VOUCHED BY YOURS TRULY with 97% sales or more3 What does FE even mean??http://i25c62nvu4cgeqyz.onion/viewtopic.php?pid=294310#p294310"
+        },
+        {
+          "a": "WebPageElement",
+          "text": "hella rad super fabI broke the world record for being awesome"
+        },
+        {
+          "a": "WebPageElement",
+          "text": "hella rad super fabsmoothe king is delish"
+        },
+        {
+          "a": "WebPageElement",
+          "text": "Theres an animal insideDrug Vendors Vouch List // 90% of the vendors dont require FE // MY POST UPDATED AND REVISED TWICE A WEEK:http://i25c62nvu4cgeqyz.onion/viewtopic.php?pid=294310#p294310"
+        },
+        {
+          "a": "WebPageElement",
+          "text": "Will be busy most of this month, I will still update my vouch thread frequently and none of the vendors require FEdont message me about carding/fraud, im strictly narcotics and basement OPsechttp://i25c62nvu4cgeqyz.onion/viewtopic.php?pid=294310#p294310"
+        }
+      ],
+      "identifier": {
+        "a": "Identifier",
+        "name": "290170",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "ITT: other vendors get mad I have all their customers and post on alts to try and regain them.And +1 Eluding."
+      },
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: Kindergarten"
+      },
+      "author": {
+        "a": "Person",
+        "memberOf": {
+          "a": "OrganizationRole",
+          "startDate": "2014-01-15T00:00:00",
+          "memberOf": {
+            "a": "Organization",
+            "name": "evolutionforum.com"
+          }
+        },
+        "identifier": {
+          "a": "Identifier",
+          "name": "393",
+          "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/person/evolutionforums"
+        },
+        "uri": "http://dig.isi.edu/weapons/data/person/evolutionforums/393"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290177",
+      "dateCreated": "2014-11-15T18:24:30",
+      "hasSignaturePart": {
+        "a": "WebPageElement",
+        "text": "Want to donate? Here, now you can :16XJyZNPsHLPZAARMMZR2SSDWeowNTY8HDicq = 665257404 in case evo gets compromised everThe #1 Amazon Refund Service -- http://k5zq47j6wd3wdvjq.onion/listing/43883"
+      },
+      "identifier": {
+        "a": "Identifier",
+        "name": "290177",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "What is the maximum spend for a DD on amazon FRIM? Not a new account, ready to order!Thanks"
+      },
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: Kindergarten"
+      },
+      "author": {
+        "a": "Person",
+        "memberOf": {
+          "a": "OrganizationRole",
+          "startDate": "2014-11-10T00:00:00",
+          "memberOf": {
+            "a": "Organization",
+            "name": "evolutionforum.com"
+          }
+        },
+        "identifier": {
+          "a": "Identifier",
+          "name": "18823",
+          "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/person/evolutionforums"
+        },
+        "uri": "http://dig.isi.edu/weapons/data/person/evolutionforums/18823"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290190",
+      "dateCreated": "2014-11-15T18:32:45",
+      "identifier": {
+        "a": "Identifier",
+        "name": "290190",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "haha searchme101 just messaged me in all caps#prayersedit: post 666 of this thread Last edited by EludingHell (2014-11-15 18:36:02)"
+      },
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: Kindergarten"
+      },
+      "author": {
+        "a": "Person",
+        "memberOf": {
+          "a": "OrganizationRole",
+          "startDate": "2014-05-14T00:00:00",
+          "memberOf": {
+            "a": "Organization",
+            "name": "evolutionforum.com"
+          }
+        },
+        "identifier": {
+          "a": "Identifier",
+          "name": "5674",
+          "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/person/evolutionforums"
+        },
+        "name": [
+          "Bay area",
+          "Flight Club ✈✈",
+          "rEvolution",
+          "United States of Savages"
+        ],
+        "uri": "http://dig.isi.edu/weapons/data/person/evolutionforums/5674"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290192",
+      "dateCreated": "2014-11-15T18:33:58",
+      "hasSignaturePart": [
+        {
+          "a": "WebPageElement",
+          "text": "dude that camping trip was IN TENTSA LIST OF VENDORS VOUCHED BY YOURS TRULY with 97% sales or more3 What does FE even mean??http://i25c62nvu4cgeqyz.onion/viewtopic.php?pid=294310#p294310"
+        },
+        {
+          "a": "WebPageElement",
+          "text": "hella rad super fabI broke the world record for being awesome"
+        },
+        {
+          "a": "WebPageElement",
+          "text": "hella rad super fabsmoothe king is delish"
+        },
+        {
+          "a": "WebPageElement",
+          "text": "Theres an animal insideDrug Vendors Vouch List // 90% of the vendors dont require FE // MY POST UPDATED AND REVISED TWICE A WEEK:http://i25c62nvu4cgeqyz.onion/viewtopic.php?pid=294310#p294310"
+        },
+        {
+          "a": "WebPageElement",
+          "text": "Will be busy most of this month, I will still update my vouch thread frequently and none of the vendors require FEdont message me about carding/fraud, im strictly narcotics and basement OPsechttp://i25c62nvu4cgeqyz.onion/viewtopic.php?pid=294310#p294310"
+        }
+      ],
+      "identifier": {
+        "a": "Identifier",
+        "name": "290192",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "girohoe wrote:What is the maximum spend for a DD on amazon FRIM? Not a new account, ready to order!Thanks"
+      },
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: Kindergarten"
+      },
+      "author": {
+        "a": "Person",
+        "memberOf": {
+          "a": "OrganizationRole",
+          "startDate": "2014-01-15T00:00:00",
+          "memberOf": {
+            "a": "Organization",
+            "name": "evolutionforum.com"
+          }
+        },
+        "identifier": {
+          "a": "Identifier",
+          "name": "393",
+          "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/person/evolutionforums"
+        },
+        "uri": "http://dig.isi.edu/weapons/data/person/evolutionforums/393"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290195",
+      "dateCreated": "2014-11-15T18:35:48",
+      "hasSignaturePart": {
+        "a": "WebPageElement",
+        "text": "Want to donate? Here, now you can :16XJyZNPsHLPZAARMMZR2SSDWeowNTY8HDicq = 665257404 in case evo gets compromised everThe #1 Amazon Refund Service -- http://k5zq47j6wd3wdvjq.onion/listing/43883"
+      },
+      "identifier": {
+        "a": "Identifier",
+        "name": "290195",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "Its so hilarious, FRIM thinks i am iCard and said I need to wait 10 days before i can get my refund. I am so happy i disputed. All buyers need to be aware of this. Using your service has been my worst experience on Evo so far. Oh and by the way, thanks to you my customer got a visit from delivery driver and numerous phone calls from carrier. You have royally fucked this up. You sir truly deserve a Troll tag."
+      },
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: Kindergarten"
+      },
+      "author": {
+        "a": "Person",
+        "memberOf": {
+          "a": "OrganizationRole",
+          "startDate": "2014-10-11T00:00:00",
+          "memberOf": {
+            "a": "Organization",
+            "name": "evolutionforum.com"
+          }
+        },
+        "identifier": {
+          "a": "Identifier",
+          "name": "16008",
+          "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/person/evolutionforums"
+        },
+        "uri": "http://dig.isi.edu/weapons/data/person/evolutionforums/16008"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290338",
+      "dateCreated": "2014-11-15T20:05:01",
+      "identifier": {
+        "a": "Identifier",
+        "name": "290338",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "Im still waiting on my replacement. Idk how icard knew what im trying to get replaced.(he got the wrong model though) FRIM has messaged me i have messaged back. That is all. Im not anyones alt"
+      },
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: Kindergarten"
+      },
+      "author": {
+        "a": "Person",
+        "memberOf": {
+          "a": "OrganizationRole",
+          "startDate": "2014-09-04T00:00:00",
+          "memberOf": {
+            "a": "Organization",
+            "name": "evolutionforum.com"
+          }
+        },
+        "identifier": {
+          "a": "Identifier",
+          "name": "12601",
+          "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/person/evolutionforums"
+        },
+        "uri": "http://dig.isi.edu/weapons/data/person/evolutionforums/12601"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290344",
+      "dateCreated": "2014-11-15T20:06:42",
+      "identifier": {
+        "a": "Identifier",
+        "name": "290344",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "who cares who anyone is *hits blunt*"
+      },
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: Kindergarten"
+      },
+      "author": {
+        "a": "Person",
+        "memberOf": {
+          "a": "OrganizationRole",
+          "startDate": "2014-05-14T00:00:00",
+          "memberOf": {
+            "a": "Organization",
+            "name": "evolutionforum.com"
+          }
+        },
+        "identifier": {
+          "a": "Identifier",
+          "name": "5674",
+          "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/person/evolutionforums"
+        },
+        "name": [
+          "Bay area",
+          "Flight Club ✈✈",
+          "rEvolution",
+          "United States of Savages"
+        ],
+        "uri": "http://dig.isi.edu/weapons/data/person/evolutionforums/5674"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290374",
+      "dateCreated": "2014-11-15T20:22:31",
+      "hasSignaturePart": [
+        {
+          "a": "WebPageElement",
+          "text": "dude that camping trip was IN TENTSA LIST OF VENDORS VOUCHED BY YOURS TRULY with 97% sales or more3 What does FE even mean??http://i25c62nvu4cgeqyz.onion/viewtopic.php?pid=294310#p294310"
+        },
+        {
+          "a": "WebPageElement",
+          "text": "hella rad super fabI broke the world record for being awesome"
+        },
+        {
+          "a": "WebPageElement",
+          "text": "hella rad super fabsmoothe king is delish"
+        },
+        {
+          "a": "WebPageElement",
+          "text": "Theres an animal insideDrug Vendors Vouch List // 90% of the vendors dont require FE // MY POST UPDATED AND REVISED TWICE A WEEK:http://i25c62nvu4cgeqyz.onion/viewtopic.php?pid=294310#p294310"
+        },
+        {
+          "a": "WebPageElement",
+          "text": "Will be busy most of this month, I will still update my vouch thread frequently and none of the vendors require FEdont message me about carding/fraud, im strictly narcotics and basement OPsechttp://i25c62nvu4cgeqyz.onion/viewtopic.php?pid=294310#p294310"
+        }
+      ],
+      "identifier": {
+        "a": "Identifier",
+        "name": "290374",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "danger777 wrote:Im still waiting on my replacement. Idk how icard knew what im trying to get replaced.(he got the wrong model though) FRIM has messaged me i have messaged back. That is all. Im not anyones alt"
+      },
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: Kindergarten"
+      },
+      "author": {
+        "a": "Person",
+        "memberOf": {
+          "a": "OrganizationRole",
+          "startDate": "2014-01-15T00:00:00",
+          "memberOf": {
+            "a": "Organization",
+            "name": "evolutionforum.com"
+          }
+        },
+        "identifier": {
+          "a": "Identifier",
+          "name": "393",
+          "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/person/evolutionforums"
+        },
+        "uri": "http://dig.isi.edu/weapons/data/person/evolutionforums/393"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290375",
+      "dateCreated": "2014-11-15T20:23:05",
+      "hasSignaturePart": {
+        "a": "WebPageElement",
+        "text": "Want to donate? Here, now you can :16XJyZNPsHLPZAARMMZR2SSDWeowNTY8HDicq = 665257404 in case evo gets compromised everThe #1 Amazon Refund Service -- http://k5zq47j6wd3wdvjq.onion/listing/43883"
+      },
+      "identifier": {
+        "a": "Identifier",
+        "name": "290375",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      }
+    },
+    {
+      "a": "Post",
+      "hasBodyPart": {
+        "a": "WebPageElement",
+        "text": "I think a lot of people dont understand Social Engineering in its own. Even as big as a company like amazon, If you constantly call about a certain situation and need a refund chances are you you will hit the same location where you have called before and they will catch on. People arent that stupid. This makes the % of success rate go down. I used to SE myself and noticed this effect when doing the Kindle refunds and reships. So to all the people saying he isnt getting it done that day or even within a few days need to relax. He has other customers as well which he has to make sure it works so he doesnt have to spend more time at the end. A little longer wait but a high success rate is what I would go for myself especially when you get a decent amount of orders that you need to get done. In addition amazon can be a little bitch to deal with sometimes, FRIM isnt the only one doing these here, there are other private forums/Social engineers doing this as well. Why this matters? Well because other people are fucking up or abusing the system  managers catch on so If FRIM calls in and they recently had a bunch of fucking idiots trying to do this it makes the situation harder for him. Reps are less likely to believe the situation that day. If you do an SE order you must have the deceny to wait a little, thats just common sense if you know how SE works. Last edited by hdmi (2014-11-15 23:02:39)"
+      },
+      "hasTitlePart": {
+        "a": "WebPageElement",
+        "text": "Re: Kindergarten"
+      },
+      "author": {
+        "a": "Person",
+        "memberOf": {
+          "a": "OrganizationRole",
+          "startDate": "2014-09-11T00:00:00",
+          "memberOf": {
+            "a": "Organization",
+            "name": "evolutionforum.com"
+          }
+        },
+        "identifier": {
+          "a": "Identifier",
+          "name": "13247",
+          "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/person/evolutionforums"
+        },
+        "name": [
+          "Sailing",
+          "Under Your Bed."
+        ],
+        "uri": "http://dig.isi.edu/weapons/data/person/evolutionforums/13247"
+      },
+      "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755/290564",
+      "dateCreated": "2014-11-15T22:57:55",
+      "hasSignaturePart": [
+        {
+          "a": "WebPageElement",
+          "text": "Drug Vendors Vouch List i25c62nvu4cgeqyz.onion/viewtopic.php?pid=294303#p294303Life isn’t about getting and having, it’s about giving and being.The best time to plant a tree was 20 years ago. The second best time is now."
+        },
+        {
+          "a": "WebPageElement",
+          "text": "EludingHell  Myself offer detailed reviews for vendors. Any vendor that wants a review done , please send a request on our thread i25c62nvu4cgeqyz.onion/viewtopic.php?pid=294303#p294303Life isn’t about getting and having, it’s about giving and being.The best time to plant a tree was 20 years ago. The second best time is now."
+        },
+        {
+          "a": "WebPageElement",
+          "text": "EludingHell  Myself offer detailed reviews for vendors. Any vendor that wants a review donePlease send a request on our Vendor Vouch thread i25c62nvu4cgeqyz.onion/viewtopic.php?pid=294303#p294303Life isn’t about getting and having, it’s about giving and being.The best time to plant a tree was 20 years ago. The second best time is now."
+        }
+      ],
+      "identifier": {
+        "a": "Identifier",
+        "name": "290564",
+        "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/post"
+      }
+    }
+  ],
+  "url": "http://i25c62nvu4cgeqyz.onion/viewtopic.php?pid=290057",
+  "uri": "http://dig.isi.edu/weapons/data/1E3FF8C3EEF1CF5ABB0E15F5FFD900298AD28755",
+  "provider": {
+    "a": "Organization",
+    "name": "evolutionforum.com"
+  },
+  "@context": "https://raw.githubusercontent.com/usc-isi-i2/dig-alignment/development/versions/2.0/datasets/weapons/evolutionforums/evolutionforums-context.json",
+  "identifier": [
+    {
+      "a": "Identifier",
+      "name": "27137",
+      "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/thread"
+    },
+    {
+      "a": "Identifier",
+      "name": "32705",
+      "hasType": "http://dig.isi.edu/weapons/data/thesaurus/identifier/evolutionforums/thread"
+    }
+  ]
+}
